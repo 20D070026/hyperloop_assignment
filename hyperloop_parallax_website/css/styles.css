@@ -1,0 +1,84 @@
+.parallax_1 {
+  color: black;
+  text-align: center;
+  /* The image used */
+  background-image: url("singapore.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  margin: auto;
+  position: relative;
+
+
+  top: 300px;
+  width: 250px;
+  height: 32px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.parallax_2 {
+  /* The image used */
+  background-image: url("paris.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+.parallax_3 {
+  /* The image used */
+  background-image: url("new_york.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.parallax_4 {
+  /* The image used */
+  background-image: url("london.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.info{
+
+  background-color: black;
+  font-size: 26px;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 0px;
+}
