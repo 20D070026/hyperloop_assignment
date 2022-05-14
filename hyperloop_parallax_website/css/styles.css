@@ -1,0 +1,63 @@
+body{
+  margin: 0;
+}
+
+.parallax_1 {
+  color: black;
+  text-align: center;
+  background-image: url("singapore.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  margin: auto;
+  position: relative;
+  top: 300px;
+  width: 250px;
+  height: 32px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.parallax_2 {
+  background-image: url("paris.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax_3 {
+  background-image: url("new_york.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax_4 {
+  background-image: url("london.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.info{
+  background-color: black;
+  font-size: 26px;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 0px;
+}
